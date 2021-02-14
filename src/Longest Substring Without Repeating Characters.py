@@ -1,7 +1,7 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
         
-        # O(n2)
+# O(n2)
         
 #         max_len = 0
 #         seen = set()
