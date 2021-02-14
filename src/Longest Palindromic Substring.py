@@ -31,6 +31,7 @@ class Solution:
                         m=k
                         start=i  
         return s[start:start+m]
+    
             
 
 
